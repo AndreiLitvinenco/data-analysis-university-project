@@ -1,5 +1,3 @@
-# data-analysis-university-project
-
 ## Overview
 
 This repository contains the final team project for the Data Analysis course at University of Bucharest, completed during the 2nd term of the 3rd year.
