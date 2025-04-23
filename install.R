@@ -1,0 +1,5 @@
+install.packages("psych")
+install.packages("Hmisc")
+install.packages("car")
+install.packages("pROC")
+install.packages("openxlsx")
